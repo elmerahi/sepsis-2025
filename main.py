@@ -1,0 +1,1 @@
+print("Salam Hadj Ali")
